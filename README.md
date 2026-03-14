@@ -1,15 +1,12 @@
-# Python 装饰器
+# Python decorator
 
 ## 启动
 
 ```bash
-python decorator.py
+python python-decorator-demo/*.py
 ```
 
-## 装饰器
+## 教程
 
-```python
-@decorator
-def function():
-    pass
-```
+Python decorator 示例。
+
